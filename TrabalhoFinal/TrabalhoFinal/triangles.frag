@@ -4,7 +4,7 @@ uniform mat4 Model;
 uniform mat4 View;
 uniform mat4 ModelView;		// View * Model
 
-in vec3 color;
+//in vec3 color;
 
 
 // Estrutura da fonte de luz ambiente global
