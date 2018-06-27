@@ -6,7 +6,6 @@ uniform mat4 ModelView;		// View * Model
 
 in vec3 color;
 
-layout (location = 0) out vec4 fColor; // Cor final do fragmento
 
 // Estrutura da fonte de luz ambiente global
 struct AmbientLight {
